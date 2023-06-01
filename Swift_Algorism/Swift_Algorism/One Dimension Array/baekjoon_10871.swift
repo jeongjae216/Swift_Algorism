@@ -24,4 +24,4 @@ private func baekjoon_10871() {
     print(output)
 }
 
-baekjoon10871()
+baekjoon_10871()
